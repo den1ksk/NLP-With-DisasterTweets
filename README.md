@@ -72,5 +72,5 @@ The results showed varying performance across the models. The BERT-based model a
 
 ### Acknowledgements
 
-This project was completed as part of the Kaggle competition "NLP Getting Started". Special thanks to Kaggle for providing the dataset and platform for this competition.
+This project was completed as part of the Kaggle competition "NLP Getting Started". Special thanks to Kaggle for providing the dataset and platform for this competition!
 
